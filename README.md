@@ -1,6 +1,6 @@
 # Kurs Python dla początkujących
 
-Lekcja t - Typy i zmienne
+Lekcja 4 - Typy i zmienne
 
 Post wraz z opisem zadań do przeczytania tutaj: [Python #4: Typy i zmienne](https://www.flynerd.pl/2017/05/python-4-typy-i-zmienne.html).
 
